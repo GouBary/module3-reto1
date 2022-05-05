@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:wght@300&display=swap');
+
+*{ 
+    padding: 0%;
+    margin: 0%;
+}
+body{ 
+    background-color: rgb(39, 36, 45);
+    font-family: 'Oleo Script Swash Caps', cursive;
+    
+}
+.Todo{ 
+    display: flex;
+
+}
+header{ 
+    background-color: rgb(24, 24, 22);
+}
+#Logo{ 
+    height: 7vw;
+    width: 8vw;
+    margin-left: 35px;
+}
+.Botones{ 
+    background-color:rgb(186, 167, 167);
+    height: 98px;
+    width: 99vw;
+}
+.Boton{ 
+    height: 70px;
+    width: 10vw;
+    background-color: rgb(44, 31, 31);
+    color: aliceblue;
+    font-size: 1.5rem;
+    margin-top: 13px;
+    margin-left: 3.5vw ;
+    margin-left: 70px;
+    border-radius: 40px;
+}
+.Menu{ 
+    display: grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap: 5px
+    width: 100px;
+    height: 100vw;
+    background-color: ;
+    
+ }
+img{ 
+     height: 20vw;
+    width: 15vw;
+    margin-left: 2vw;
+    margin-top: 10px;
+}
+.Producto{ 
+    margin-top: 1px;
+    margin-left: 2vw;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(177, 179, 188);
+}
+.Precio{ 
+    margin-top: 1px;
+    margin-left: 3vw;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(223, 234, 13);
+
+}
+.Categoria{ 
+    margin-left: 2vw;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(196, 189, 201);
+
+}
+.Genero{ 
+    display: flex;
+    
+    margin-top: -48px;
+    margin-left: 7vw;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(173, 157, 14);
+
+}

@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@700&family=Poppins:wght@300&display=swap');
+*{ 
+    margin: 0%;
+    padding: 0%;
+ 
+}
+body{ 
+    font-family: 'Oleo Script Swash Caps', cursive; 
+}
+header{ 
+    display: flex;
+    width: 100vw;
+    height: 5vw;
+    background-color: rgb(2, 3, 3);
+}
+header img{ 
+    margin-left: 6vw;
+    height: 5vw;
+    width: 6vw;
+}
+.Titulo1{ 
+    color: rgb(255, 255, 255);
+    margin-left: 25vw;
+    font-size: 4.2rem;
+}
+#LogoCarrito{ 
+    margin-left: 20vw;
+}
+#LogoPrincipal img{ 
+    
+    display: flex;
+    height: 25vw;
+    width: 60vw;
+    margin-top: -55vw;
+    margin-left: 20vw;
+    border-radius: 60px;
+   
+}
+.Hombres img{ 
+    
+    height: 25vw;
+    width: 30vw;
+    margin-left: 9vw;
+    margin-top: 2vw;
+    border-radius: 70px;
+    
+   
+}
+.Thombre{ 
+    margin-left: 15vw;
+    color: aliceblue;
+    margin-top: -24vw;
+    font-size: 2rem;
+    
+}
+.Mujeres img{ 
+    
+    height: 25vw;
+    width: 30vw;
+    margin-left:60vw;
+    margin-top: -3vw;
+    border-radius: 70px;
+}
+.Tmujer{ 
+    margin-left: 65vw;
+    color: aliceblue;
+    margin-top: -24vw;
+    font-size: 2rem;
+    
+}
+
+
+
+
+
+
+
